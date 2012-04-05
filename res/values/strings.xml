@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="message">Press the button below to remove all SMS messages!</string>
+    <string name="app_name">GoogleSMSRemover</string>
+    <string name="title">Google Auth SMS Remover</string>
+    <string name="button">Remove!</string>
+
+</resources>
